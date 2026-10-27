@@ -12,20 +12,16 @@ The name is Sumerian. *mar-sa* is the shipyard, where specialized trades, strict
 
 ## Status: upcoming
 
-The source is not here yet. Nothing in this repository is runnable today, and there is no installation path to follow yet. Watching the repo or subscribing below is the way to know when that changes.
+The source is not here yet. Nothing in this repository is runnable today, and there is no installation path to follow yet. Subscribing below is the way to know when that changes.
 
 ## Be notified when it is released
 
 Two places, both new, both carrying the same material. Subscribe and the release reaches you.
 
-- **The Agentic Ledger on Substack**, written work on agentic AI architecture:
-  https://theagenticledger.substack.com/
-- **The Agentic Ledger on YouTube**, the same work built and explained on screen:
-  https://www.youtube.com/@TheAgenticLedger
+- **The Agentic Ledger on Substack**, written work on agentic AI architecture: https://theagenticledger.substack.com/
+- **The Agentic Ledger on YouTube**, the same work built and explained on screen: https://www.youtube.com/@TheAgenticLedger
 
 You will get one email on the day this repository goes live.
-
-You can also use GitHub's own **Watch → Releases only** on this repository.
 
 ## Companion repository
 
