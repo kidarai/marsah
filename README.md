@@ -1,5 +1,7 @@
 # Marsah
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 **Autonomy by construction**
 
 Marsah is a deterministic controller for AI coding agents. You describe a feature, and a Python controller drives model workers through a fixed pipeline: specify, build, run the quality gates, review in parallel, verify against live state, capture the evidence, commit, audit.
