@@ -31,3 +31,7 @@ You can also use GitHub's own **Watch → Releases only** on this repository.
 
 [`kidarai/marsah-corpus`](https://github.com/kidarai/marsah-corpus) holds the
 quality-gate and technology-stack definitions Marsah reads when it builds.
+
+---
+
+Built by **Kidar AI**, an AI agency for investment firms and capital allocators. Enquiries: info@kidar.ai
